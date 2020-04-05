@@ -1,4 +1,3 @@
-README
 FirmPayroll HRM application provides an employee management and payroll system.  This initial project is a CRUD backend application that persists and authenticates employee info to a database. Future enhancements will include payroll and leave management functions. 
 Prerequisites:
 •	Node 
